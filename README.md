@@ -5,7 +5,7 @@ Array Challenges
 
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
-|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](array/easy/duplicate_zeros.py)|Easy|
+|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](/array/easy/duplicate_zeros.py)|Easy|
 
 
 Greedy challenges
@@ -20,6 +20,19 @@ Greedy challenges
 |[Minimum arrows](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](/greedy/medium/find_min_arrow_shots.py)|Medium|
 |[String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Python](/greedy/medium/str_wo_3a_3b.py)|Medium|
 |[Minimum Dominoes](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](greedy/medium/min_dominoes.py)|Medium|
+
+Dynamic Programming
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](/dp/medium/common_subsequence.py)|Medium|
+
+Depth First Search
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/dfs/medium/validate_bst.py)|Medium|
+|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Python](/dfs/medium/friend_circles.py)|Medium|
 
 
 
