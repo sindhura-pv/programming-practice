@@ -1,6 +1,13 @@
 # programming-practice
 My attempt at tackling some of the most interesting coding challenges on leetcode! 
 
+Array Challenges
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](array/easy/duplicate_zeros.py)|Easy|
+
+
 Greedy challenges
 
 | Problem       | Solution      | Level |
@@ -12,6 +19,10 @@ Greedy challenges
 | [Shortest way](https://leetcode.com/problems/shortest-way-to-form-string) | [Python](/greedy/medium/shortest_way.py)| Medium |
 |[Minimum arrows](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](/greedy/medium/find_min_arrow_shots.py)|Medium|
 |[String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Python](/greedy/medium/str_wo_3a_3b.py)|Medium|
+|[Minimum Dominoes](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](greedy/medium/min_dominoes.py)|Medium|
+
+
+
 
 
 
