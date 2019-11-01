@@ -6,6 +6,8 @@ Array Challenges
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](/array/easy/duplicate_zeros.py)|Easy|
+|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/array/medium/sort_colors.py)|Medium|
+|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/array/medium/min_size_subarray_sum.py)|Medium|
 
 
 Greedy challenges
