@@ -6,8 +6,11 @@ Array Challenges
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](/array/easy/duplicate_zeros.py)|Easy|
+|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/array/easy/missing_number.py)|Easy|
+|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/array/easy/first_unique_char.py)|Easy|
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/array/medium/sort_colors.py)|Medium|
 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/array/medium/min_size_subarray_sum.py)|Medium|
+|[Product of Array Except self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](/array/medium/prod_array.py)|Medium|
 
 
 Greedy challenges
