@@ -12,6 +12,11 @@ Array Challenges
 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/array/medium/min_size_subarray_sum.py)|Medium|
 |[Product of Array Except self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](/array/medium/prod_array.py)|Medium|
 
+String Challenges
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Reorder log files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Python](/string/easy/reorder_log_files.py)|Easy|
 
 Greedy challenges
 
@@ -25,6 +30,7 @@ Greedy challenges
 |[Minimum arrows](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](/greedy/medium/find_min_arrow_shots.py)|Medium|
 |[String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Python](/greedy/medium/str_wo_3a_3b.py)|Medium|
 |[Minimum Dominoes](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](greedy/medium/min_dominoes.py)|Medium|
+|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Python](/greedy/medium/minimum_sticks.py)|Medium|
 
 Dynamic Programming
 
@@ -39,6 +45,11 @@ Depth First Search
 |[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/dfs/medium/validate_bst.py)|Medium|
 |[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Python](/dfs/medium/friend_circles.py)|Medium|
 
+Breadth First Search
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](/bfs/medium/zero_one_matrix.py)|Medium|
 
 
 
