@@ -11,12 +11,17 @@ Array Challenges
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/array/medium/sort_colors.py)|Medium|
 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/array/medium/min_size_subarray_sum.py)|Medium|
 |[Product of Array Except self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](/array/medium/prod_array.py)|Medium|
+|[3 Sum](https://leetcode.com/problems/3sum/)|[Python](/array/medium/3Sum.py)|Medium|
+|[3 Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](/array/medium/3SumClosest.py)|Medium|
+
 
 String Challenges
 
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[Reorder log files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Python](/string/easy/reorder_log_files.py)|Easy|
+|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](/string/medium/group_anagrams.py)|Medium|
+|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/string/medium/version_numbers.py)|Medium|
 
 Greedy challenges
 
