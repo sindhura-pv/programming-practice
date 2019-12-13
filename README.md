@@ -13,6 +13,8 @@ Array Challenges
 |[Product of Array Except self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](/array/medium/prod_array.py)|Medium|
 |[3 Sum](https://leetcode.com/problems/3sum/)|[Python](/array/medium/3Sum.py)|Medium|
 |[3 Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](/array/medium/3SumClosest.py)|Medium|
+|[Find first and last](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](/array/medium/find_first_and_last.py)|Medium|
+|[Subsets](https://leetcode.com/problems/subsets/)|[Python](/array/medium/subsets.py)|Medium|
 
 
 String Challenges
@@ -49,6 +51,7 @@ Depth First Search
 | ------------- | ------------- |-------|
 |[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/dfs/medium/validate_bst.py)|Medium|
 |[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Python](/dfs/medium/friend_circles.py)|Medium|
+|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](/dfs/hard/unique_paths_3.py)|Hard|
 
 Breadth First Search
 
