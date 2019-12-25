@@ -47,6 +47,8 @@ Dynamic Programming
 |[Minimum path sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](/dp/medium/minimum_path_sum.py)|Medium|
 |[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](/dp/medium/unique_paths.py)|Medium|
 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](/dp/medium/minimum_sum.py)|Medium|
+|[Number of Dice Rolls](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Python](/dp/medium/dice_rolls.py)|Medium|
+|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](/dp/medium/target_sum.py)|Medium|
 
 Depth First Search
 
