@@ -19,6 +19,7 @@ Array Challenges
 |[Interval list intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python](/array/medium/interval_list_intersections.py)|Medium|Two Pointers|
 |[Max consecutive ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](/array/medium/max_consecutive_ones_3.py)|Medium|Sliding Window|
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
+|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
 
 String Challenges
 
