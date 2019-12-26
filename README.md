@@ -8,6 +8,7 @@ Array Challenges
 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](/array/easy/duplicate_zeros.py)|Easy|
 |[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/array/easy/missing_number.py)|Easy|
 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/array/easy/first_unique_char.py)|Easy|
+|[Intersection of 2 arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](/array/easy/intersection_of_2_arrays.py)|Easy|
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/array/medium/sort_colors.py)|Medium|
 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/array/medium/min_size_subarray_sum.py)|Medium|
 |[Product of Array Except self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](/array/medium/prod_array.py)|Medium|
@@ -15,7 +16,9 @@ Array Challenges
 |[3 Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](/array/medium/3SumClosest.py)|Medium|
 |[Find first and last](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](/array/medium/find_first_and_last.py)|Medium|
 |[Subsets](https://leetcode.com/problems/subsets/)|[Python](/array/medium/subsets.py)|Medium|
-
+|[Interval list intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python](/array/medium/interval_list_intersections.py)|Medium|
+|[Max consecutive ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](/array/medium/max_consecutive_ones_3.py)|Medium|
+|[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium|
 
 String Challenges
 
