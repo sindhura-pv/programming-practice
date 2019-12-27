@@ -21,6 +21,15 @@ Array Challenges
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
 |[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
 
+Linked List Challenges
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](/linked_list/easy/merge_2_sorted_lists.py)|Medium|
+|[Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](/linked_list/medium/copy_list.py)|Medium|
+|[Sort list](https://leetcode.com/problems/sort-list/)|[Python](/linked_list/medium/sort_list.py)|Medium|
+|[Remove Nth Node](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](/linked_list/medium/remove_nth_node.py)|Medium|
+
 String Challenges
 
 | Problem       | Solution      | Level |
