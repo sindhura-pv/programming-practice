@@ -26,8 +26,12 @@ String Challenges
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[Reorder log files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Python](/string/easy/reorder_log_files.py)|Easy|
+|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/submissions/)|[Python](/string/easy/valid_paranthesis.py)|Easy|
 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](/string/medium/group_anagrams.py)|Medium|
 |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/string/medium/version_numbers.py)|Medium|
+|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solution/)|[Python](/string/medium/longest_palindromic_substring.py)|Medium|
+|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|[Python](/string/medium/generate_paranthesis.py)|Medium|
+|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](/string/medium/decode_ways.py)|Medium|
 
 Greedy challenges
 
