@@ -42,6 +42,12 @@ String Challenges
 |[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|[Python](/string/medium/generate_paranthesis.py)|Medium|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](/string/medium/decode_ways.py)|Medium|
 
+Tree Challenges
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](/trees/easy/subtree-of-another-tree.py)|Easy|
+|[Kth Smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/trees/medium/kth_smallest.py)|Medium|
+
 Greedy challenges
 
 | Problem       | Solution      | Level |
@@ -80,9 +86,5 @@ Breadth First Search
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](/bfs/medium/zero_one_matrix.py)|Medium|
-
-
-
-
-
+|[Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](/bfs/medium/binary-tree-right-side-view.py)|Medium|
 
