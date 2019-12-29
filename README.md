@@ -43,15 +43,17 @@ String Challenges
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](/string/medium/decode_ways.py)|Medium|
 
 Tree Challenges
+
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[Subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](/trees/easy/subtree-of-another-tree.py)|Easy|
 |[Kth Smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/trees/medium/kth_smallest.py)|Medium|
 
 Graph Challenges
+
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
-|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](/graph/easy/toen_judge.py)|Easy|
+|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](/graph/easy/town_judge.py)|Easy|
 |[Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Python](/graph/medium/valid_tree.py)|Medium|
 |[Can visit all rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python](/graph/medium/can_visit_all_rooms.py)|Medium|
 |[Path with maximum minimum value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Python](/graph/medium/maxmin.py)|Medium|
