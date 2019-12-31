@@ -72,6 +72,13 @@ Greedy challenges
 |[Minimum Dominoes](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](greedy/medium/min_dominoes.py)|Medium|
 |[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Python](/greedy/medium/minimum_sticks.py)|Medium|
 
+Divide and Conquer Challenges
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Maximum Subarray sum](https://leetcode.com/problems/maximum-subarray/)|[Python](/divide_and_conquer/easy/max_subarray.py)|Easy|
+|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](/divide_and_conquer/easy/prefix.py)|Easy|
+
 Dynamic Programming
 
 | Problem       | Solution      | Level |
