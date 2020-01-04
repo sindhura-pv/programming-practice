@@ -20,7 +20,14 @@ Array Challenges
 |[Max consecutive ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](/array/medium/max_consecutive_ones_3.py)|Medium|Sliding Window|
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
 |[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
-|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](/array/medium/search.py)|Medium|Binary Search|
+
+Binary Search 
+
+|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](/binary_search/easy/first_bad_version.py)|Easy|
+|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](/binary_search/medium/search.py)|Medium|
+|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](/binary_search/medium/peak_element.py)|Medium|
+|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/binary_search/medium/find_minimum.py)|Medium|
+|[Search Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](/binary_search/medium/search_range.py)|Medium|
 
 Linked List Challenges
 
