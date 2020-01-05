@@ -20,6 +20,7 @@ Array Challenges
 |[Max consecutive ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](/array/medium/max_consecutive_ones_3.py)|Medium|Sliding Window|
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
 |[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
+|[3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[Python](/array/medium/3sum_smaller.py)|Medium||
 
 Binary Search 
 
@@ -58,6 +59,7 @@ Tree Challenges
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[Subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](/trees/easy/subtree-of-another-tree.py)|Easy|
+|[Two Sum IV](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](/trees/easy/two-sum-4.py)|Easy|
 |[Kth Smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/trees/medium/kth_smallest.py)|Medium|
 
 Graph Challenges
