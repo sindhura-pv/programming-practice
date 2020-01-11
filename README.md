@@ -19,8 +19,9 @@ Array Challenges
 |[Interval list intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python](/array/medium/interval_list_intersections.py)|Medium|Two Pointers|
 |[Max consecutive ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](/array/medium/max_consecutive_ones_3.py)|Medium|Sliding Window|
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
-|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
 |[3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[Python](/array/medium/3sum_smaller.py)|Medium||
+|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
+|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/array/hard/first-missing-positive.py)|Hard||
 
 Binary Search 
 
@@ -53,6 +54,7 @@ String Challenges
 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solution/)|[Python](/string/medium/longest_palindromic_substring.py)|Medium|
 |[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|[Python](/string/medium/generate_paranthesis.py)|Medium|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](/string/medium/decode_ways.py)|Medium|
+|[Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](/string/hard/longest-valid-parentheses.py)|Hard|
 
 Tree Challenges
 
