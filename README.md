@@ -54,7 +54,8 @@ String Challenges
 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solution/)|[Python](/string/medium/longest_palindromic_substring.py)|Medium|
 |[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|[Python](/string/medium/generate_paranthesis.py)|Medium|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](/string/medium/decode_ways.py)|Medium|
-|[Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](/string/hard/longest-valid-parentheses.py)|Hard|
+|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](/string/medium/minimum-time-difference.py)|Medium|
+|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](/string/hard/longest-valid-parantheses.py)|Hard|
 
 Tree Challenges
 
@@ -104,7 +105,7 @@ Dynamic Programming
 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](/dp/medium/minimum_sum.py)|Medium|
 |[Number of Dice Rolls](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Python](/dp/medium/dice_rolls.py)|Medium|
 |[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](/dp/medium/target_sum.py)|Medium|
-
+|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Python](/dp/medium/ongest-string-chain.py)|Medium|
 Depth First Search
 
 | Problem       | Solution      | Level |
