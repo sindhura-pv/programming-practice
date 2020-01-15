@@ -106,6 +106,9 @@ Dynamic Programming
 |[Number of Dice Rolls](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Python](/dp/medium/dice_rolls.py)|Medium|
 |[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](/dp/medium/target_sum.py)|Medium|
 |[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Python](/dp/medium/ongest-string-chain.py)|Medium|
+|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Python](/dp/medium/max-len-rep-subarray.py)|Medium|
+|[Integer Break](https://leetcode.com/problems/integer-break/)|[Python](/dp/medium/integer-break.py)|Medium|
+
 Depth First Search
 
 | Problem       | Solution      | Level |
