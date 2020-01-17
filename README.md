@@ -67,6 +67,15 @@ Tree Challenges
 |[Find Leaves of a binary tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Python](/trees/medium/find-leaves-of-a-binary-tree.py)|Medium|
 |[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python](/trees/medium/binary-tree-pruning.py)|Medium|
 
+Heap Challenges
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](/heap/easy/kth-largest-element-in-a-stream.py)|Easy|
+|[Kth smallest Element](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/heap/medium/kth-smallest-element.py)|Medium|
+|[Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/heap/medium/top-k-frequent-elements.py)|Medium|
+|[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Python](/heap/hard/employee-free-time.py)|Hard|
+
 Graph Challenges
 
 | Problem       | Solution      | Level |
