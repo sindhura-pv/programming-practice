@@ -25,7 +25,6 @@ Array Challenges
 
 Binary Search 
 
-
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](/binary_search/easy/first_bad_version.py)|Easy|
@@ -63,7 +62,10 @@ Tree Challenges
 | ------------- | ------------- |-------|
 |[Subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](/trees/easy/subtree-of-another-tree.py)|Easy|
 |[Two Sum IV](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](/trees/easy/two-sum-4.py)|Easy|
+|[Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](/trees/easy/diameter-of-a-binary-tree.py)|Easy|
 |[Kth Smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/trees/medium/kth_smallest.py)|Medium|
+|[Find Leaves of a binary tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Python](/trees/medium/find-leaves-of-a-binary-tree.py)|Medium|
+|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python](/trees/medium/binary-tree-pruning.py)|Medium|
 
 Graph Challenges
 
