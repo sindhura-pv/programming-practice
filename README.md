@@ -9,6 +9,7 @@ Array Challenges
 |[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/array/easy/missing_number.py)|Easy||
 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/array/easy/first_unique_char.py)|Easy||
 |[Intersection of 2 arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](/array/easy/intersection_of_2_arrays.py)|Easy|Two Pointers|
+|[Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](/array/easy/squares-of-sorted-array.py)|Easy||
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/array/medium/sort_colors.py)|Medium||
 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/array/medium/min_size_subarray_sum.py)|Medium||
 |[Product of Array Except self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](/array/medium/prod_array.py)|Medium||
@@ -54,6 +55,7 @@ String Challenges
 |[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)|[Python](/string/medium/generate_paranthesis.py)|Medium|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](/string/medium/decode_ways.py)|Medium|
 |[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](/string/medium/minimum-time-difference.py)|Medium|
+|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Python](/string/medium/camelcase-matching.py)|Medium|
 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](/string/hard/longest-valid-parantheses.py)|Hard|
 
 Tree Challenges
@@ -72,6 +74,7 @@ Heap Challenges
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
 |[Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](/heap/easy/kth-largest-element-in-a-stream.py)|Easy|
+|[High Five](https://leetcode.com/problems/high-five/)|[Python](/heap/easy/high-five.py)|Easy|
 |[Kth smallest Element](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/heap/medium/kth-smallest-element.py)|Medium|
 |[Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/heap/medium/top-k-frequent-elements.py)|Medium|
 |[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Python](/heap/hard/employee-free-time.py)|Hard|
@@ -110,6 +113,7 @@ Dynamic Programming
 
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
+|[Longest word in dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python](/dp/easy/longest-word-in-dictionary.py)|Easy|
 |[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](/dp/medium/common_subsequence.py)|Medium|
 |[Minimum path sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](/dp/medium/minimum_path_sum.py)|Medium|
 |[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](/dp/medium/unique_paths.py)|Medium|
