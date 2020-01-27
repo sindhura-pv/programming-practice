@@ -128,8 +128,11 @@ Depth First Search
 
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
+|[Is Same Tree](https://leetcode.com/problems/same-tree/)|[Python](/dfs/easy/issametree.py)|Easy|
 |[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/dfs/medium/validate_bst.py)|Medium|
 |[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Python](/dfs/medium/friend_circles.py)|Medium|
+|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](/dfs/medium/max-area-of-island.py)|Medium|
+|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](/dfs/medium/path-sum-2.py)|Medium|
 |[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](/dfs/hard/unique_paths_3.py)|Hard|
 
 Breadth First Search
@@ -138,4 +141,4 @@ Breadth First Search
 | ------------- | ------------- |-------|
 |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](/bfs/medium/zero_one_matrix.py)|Medium|
 |[Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](/bfs/medium/binary-tree-right-side-view.py)|Medium|
-
+|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](/bfs/hard/sliding-puzzle.py)|Hard|
