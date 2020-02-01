@@ -21,6 +21,7 @@ Array Challenges
 |[Max consecutive ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](/array/medium/max_consecutive_ones_3.py)|Medium|Sliding Window|
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
 |[3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[Python](/array/medium/3sum_smaller.py)|Medium||
+|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Python](/array/medium/find-the-celebrity.py)|Medium||
 |[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/array/hard/first-missing-positive.py)|Hard||
 
@@ -119,7 +120,7 @@ Backtracking
 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](/backtracking/medium/combination-sum.py)|Medium|
 |[Path with max gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Python](/backtracking/medium/path-with-max-gold.py)|Medium|
 |[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](/backtracking/medium/palindrome-partitioning.py)|Medium|
-
+|[Word Search](https://leetcode.com/problems/word-search/)|[Python](/backtracking/medium/word-search.py)|Medium|
 
 Dynamic Programming
 
@@ -135,6 +136,7 @@ Dynamic Programming
 |[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Python](/dp/medium/ongest-string-chain.py)|Medium|
 |[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Python](/dp/medium/max-len-rep-subarray.py)|Medium|
 |[Integer Break](https://leetcode.com/problems/integer-break/)|[Python](/dp/medium/integer-break.py)|Medium|
+|[Word Break](https://leetcode.com/problems/word-break/)|[Python](/dp/medium/word-break.py)|Medium| 
 
 Depth First Search
 
