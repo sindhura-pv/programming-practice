@@ -87,6 +87,9 @@ Graph Challenges
 |[Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Python](/graph/medium/valid_tree.py)|Medium|
 |[Can visit all rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python](/graph/medium/can_visit_all_rooms.py)|Medium|
 |[Path with maximum minimum value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Python](/graph/medium/maxmin.py)|Medium|
+|[Redundant Connections](https://leetcode.com/problems/redundant-connection/)|[Python](/graph/medium/redundant-connections.py)|Medium|
+|[Number of Connected Components](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[Python](/graph/medium/concomp.py)|Medium|
+|[Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/)|[Python](/graph/medium/course-schedule-ii.py)|Medium|
 
 Greedy challenges
 
