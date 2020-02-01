@@ -112,6 +112,15 @@ Divide and Conquer Challenges
 |[Maximum Subarray sum](https://leetcode.com/problems/maximum-subarray/)|[Python](/divide_and_conquer/easy/max_subarray.py)|Easy|
 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](/divide_and_conquer/easy/prefix.py)|Easy|
 
+Backtracking
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](/backtracking/medium/combination-sum.py)|Medium|
+|[Path with max gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Python](/backtracking/medium/path-with-max-gold.py)|Medium|
+|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](/backtracking/medium/palindrome-partitioning.py)|Medium|
+
+
 Dynamic Programming
 
 | Problem       | Solution      | Level |
