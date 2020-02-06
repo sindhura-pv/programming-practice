@@ -13,7 +13,7 @@ Array Challenges
 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/array/medium/sort_colors.py)|Medium||
 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/array/medium/min_size_subarray_sum.py)|Medium||
 |[Product of Array Except self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](/array/medium/prod_array.py)|Medium||
-|[3 Sum](https://leetcode.com/problems/3sum/)|[Python](/array/medium/3Sum.py)|Medium||
+|[3 Sum](https://leetcode.com/problems/3sum/)|[Python](/array/medium/3sum.py)|Medium||
 |[3 Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](/array/medium/3SumClosest.py)|Medium||
 |[Find first and last](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](/array/medium/find_first_and_last.py)|Medium||
 |[Subsets](https://leetcode.com/problems/subsets/)|[Python](/array/medium/subsets.py)|Medium||
