@@ -22,6 +22,9 @@ Array Challenges
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
 |[3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[Python](/array/medium/3sum_smaller.py)|Medium||
 |[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Python](/array/medium/find-the-celebrity.py)|Medium||
+|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](/array/medium/summary-ranges.py)|Medium||
+|[Grumpy bookstore owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](/array/medium/grumpy.py)|Medium|Sliding Window|
+|[Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](/array/medium/maximum-product-subarray.py)|Medium||
 |[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/array/hard/first-missing-positive.py)|Hard||
 
