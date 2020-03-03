@@ -27,6 +27,7 @@ Array Challenges
 |[Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](/array/medium/maximum-product-subarray.py)|Medium||
 |[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/array/hard/first-missing-positive.py)|Hard||
+|[Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Python](/array/hard/sliding-window-maximum.py)|Hard|Sliding Window|
 
 Binary Search 
 
@@ -60,7 +61,14 @@ String Challenges
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](/string/medium/decode_ways.py)|Medium|
 |[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](/string/medium/minimum-time-difference.py)|Medium|
 |[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Python](/string/medium/camelcase-matching.py)|Medium|
+|[Search suggestions](https://leetcode.com/problems/search-suggestions-system/)|[Python](/string/medium/search-suggestions.py)|Medium|
 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](/string/hard/longest-valid-parantheses.py)|Hard|
+
+Stacks and Queues Challenges
+
+| Problem       | Solution      | Level |
+| ------------- | ------------- |-------|
+|[Min stack](https://leetcode.com/problems/min-stack/)|[Python](/stacks and queues/easy/min-stack.py)|Easy|
 
 Tree Challenges
 
@@ -140,6 +148,7 @@ Dynamic Programming
 |[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Python](/dp/medium/max-len-rep-subarray.py)|Medium|
 |[Integer Break](https://leetcode.com/problems/integer-break/)|[Python](/dp/medium/integer-break.py)|Medium|
 |[Word Break](https://leetcode.com/problems/word-break/)|[Python](/dp/medium/word-break.py)|Medium| 
+|[Number of distinct islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Python](/dp/medium/number-of-distinct-islands.py)|Medium|
 
 Depth First Search
 
