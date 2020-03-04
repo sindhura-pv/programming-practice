@@ -47,6 +47,7 @@ Linked List Challenges
 |[Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](/linked_list/medium/copy_list.py)|Medium|
 |[Sort list](https://leetcode.com/problems/sort-list/)|[Python](/linked_list/medium/sort_list.py)|Medium|
 |[Remove Nth Node](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](/linked_list/medium/remove_nth_node.py)|Medium|
+|[Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](/linked_list/hard/merge-k-sorted-lists.py)|Hard|
 
 String Challenges
 
@@ -160,6 +161,7 @@ Depth First Search
 |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](/dfs/medium/max-area-of-island.py)|Medium|
 |[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](/dfs/medium/path-sum-2.py)|Medium|
 |[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](/dfs/hard/unique_paths_3.py)|Hard|
+|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](/dfs/hard/concatenated-words.py)|Hard|
 
 Breadth First Search
 
