@@ -69,7 +69,7 @@ Stacks and Queues Challenges
 
 | Problem       | Solution      | Level |
 | ------------- | ------------- |-------|
-|[Min stack](https://leetcode.com/problems/min-stack/)|[Python](/stacks and queues/easy/min-stack.py)|Easy|
+|[Min stack](https://leetcode.com/problems/min-stack/)|[Python](/stacks_queues/easy/min-stack.py)|Easy|
 
 Tree Challenges
 
