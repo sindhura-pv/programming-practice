@@ -150,6 +150,7 @@ Dynamic Programming
 |[Integer Break](https://leetcode.com/problems/integer-break/)|[Python](/dp/medium/integer-break.py)|Medium|
 |[Word Break](https://leetcode.com/problems/word-break/)|[Python](/dp/medium/word-break.py)|Medium| 
 |[Number of distinct islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Python](/dp/medium/number-of-distinct-islands.py)|Medium|
+|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python](/dp/hard/longest-increasing-sequence.py)|Hard|
 
 Depth First Search
 
@@ -162,6 +163,7 @@ Depth First Search
 |[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](/dfs/medium/path-sum-2.py)|Medium|
 |[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](/dfs/hard/unique_paths_3.py)|Hard|
 |[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](/dfs/hard/concatenated-words.py)|Hard|
+|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](/dfs/hard/longest-consecutive-sequence.py)|Hard|
 
 Breadth First Search
 
