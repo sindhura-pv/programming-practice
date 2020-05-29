@@ -18,6 +18,8 @@ Array Challenges
 |[Subsets](https://leetcode.com/problems/subsets/)|[Python](/array/medium/subsets.py)|Medium||
 |[Interval list intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python](/array/medium/interval_list_intersections.py)|Medium|Two Pointers|
 |[Max consecutive ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](/array/medium/max_consecutive_ones_3.py)|Medium|Sliding Window|
+|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](/array/medium/Solution.java)|Medium||
+|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Java](/array/medium/ProductOfNumbers.java)|Medium||
 |[Subarray sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](/array/medium/subarray_sum.py)|Medium||
 |[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](/array/hard/submatrices_sum.py)|Hard|Sliding Window|
 
